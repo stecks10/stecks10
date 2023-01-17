@@ -1,4 +1,4 @@
-  ## Hello World! Eu sou o Vitor Nunes 
+  ## Front-end Developer | HTML, CSS, JavaScript, React, TypeScript, TailwindCSS, React Native, AngularJS
  <div>
   <a href="https://github.com/stecks10">
    
