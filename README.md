@@ -1,4 +1,4 @@
-  ## Front-end Developer | HTML, CSS, JavaScript, React, TypeScript, TailwindCSS, React Native, AngularJS
+ Sou programador Front-end com em média 2 anos de experiência com essas tecnologias: HTML, CSS, JavaScript, TypeScript, Angular, React, Next.js, Tailwind CSS, Git e GitHub e muito mais..
  <div>
   <a href="https://github.com/stecks10">
    
