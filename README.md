@@ -1,4 +1,4 @@
- Sou programador Front-end com em média 2 anos de experiência com essas tecnologias: HTML, CSS, JavaScript, TypeScript, Angular, React, Node.js, Next.js, Tailwind CSS, Git e GitHub e muito mais..
+ Sou programador Front-end com em média 3 anos de experiência com essas tecnologias: HTML, CSS, JavaScript, TypeScript, Angular, React, Node.js, Next.js, Tailwind CSS, Git e GitHub e muito mais..
  <div>
   <a href="https://github.com/stecks10">
    
