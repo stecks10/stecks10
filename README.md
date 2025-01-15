@@ -1,17 +1,56 @@
- Sou programador Front-end com em média 4 anos de experiência com essas tecnologias: HTML, CSS, JavaScript, TypeScript, Angular, React, Node.js, Next.js, Tailwind CSS, Git e GitHub e muito mais..
- <div>
-  <a href="https://github.com/stecks10">
-   
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vitor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
-  
-  <a href = "mailto: vnn2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-nunes-do-nascimento-466004197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+# 🧑‍💻 **Vitor Nunes do Nascimento**
+
+**Front-end & Mobile Developer | Rio de Janeiro, RJ**  
+📧 [stacks10@gmail.com](mailto:vnn2006@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/vitor-nunes-do-nascimento-466004197/)  
+
+---
+
+## 👋 **Sobre Mim**
+
+Sou desenvolvedor Front-end e Mobile com **4 anos de experiência** criando aplicações robustas e responsivas, utilizando tecnologias modernas como **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **React Native**, **Node.js**, **Angular**, **Next.js**, e **TailwindCSS**.  
+
+Tenho paixão por escrever código limpo e soluções eficientes que proporcionam experiências incríveis para os usuários. Sempre busco aprender novas tecnologias e me aperfeiçoar nas que já utilizo.
+
+---
+
+## 🚀 **Minhas Habilidades**
+
+**Linguagens & Tecnologias:**
+
+- **Front-end:** React, Angular, Next.js, HTML5, CSS3, JavaScript, TypeScript, TailwindCSS, Sass.
+- **Mobile:** React Native, Expo.
+- **Back-end:** Node.js, Express, MongoDB, Firebase.
+- **DevOps:** Docker, CI/CD com GitHub Actions.
+- **Versionamento:** Git, GitHub.
+
+---
+
+## 📌 **Projetos Principais**
+
+🔗 **[Ignite Teams](https://github.com/stcks10/ignite-teams)**  
+📋 Aplicativo de gerenciamento de equipes criado com **React Native** e **Expo**.
+
+🔗 **[NLW Setup](https://github.com/stcks10/nlw-setup)**  
+📋 Aplicação web construída durante o evento Next Level Week, utilizando **TypeScript** e **React**.
+
+🔗 **[IgGym](https://github.com/stcks10/IgGym)**  
+📋 Projeto fitness feito com **React Native**, focado na experiência do usuário.
+
+*(Você pode adicionar mais projetos com links e descrições breves.)*
+
+---
+
+## 🛠️ **Minhas Contribuições**
+
+👨‍💻 Repositórios contribuídos:  
+- [**IgGym**](https://github.com/stcks10/IgGym)  
+- [**Ignite Teams**](https://github.com/stcks10/ignite-teams)  
+- [**NLW Setup**](https://github.com/stcks10/nlw-setup)  
+
+Totalizando **488 contribuições em 2024** (e crescendo!).
+
+
+## 📈 **Estatísticas**
+
+![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stcks10&show_icons=true&theme=dark&hide=issues,contribs&hide_title=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stcks10&layout=compact&theme=dark&hide_title=true)
