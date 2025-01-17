@@ -1,5 +1,5 @@
 # 🧑‍💻 **Vitor Nunes do Nascimento**
-**Full Stack Developer | Rio de Janeiro, RJ**  
+**Full Stack Developer 
 
 ---
 
