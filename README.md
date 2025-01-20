@@ -9,9 +9,7 @@ Minha paixão é escrever código limpo e desenvolver soluções eficientes, gar
 
 ---
 
-## 🚀 **Habilidades Técnicas**
-
-### **Linguagens & Tecnologias**
+## 🚀 **Habilidades**
 
 - **Front-end:** React, Angular, Next.js, HTML5, CSS3, JavaScript, TypeScript, TailwindCSS, Sass.
 - **Mobile:** React Native, Expo.
