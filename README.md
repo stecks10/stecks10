@@ -1,4 +1,4 @@
-# 🧑‍💻 **Vitor Nunes do Nascimento**
+# **Vitor Nunes do Nascimento**
 Full Stack Developer 
 ---
 
