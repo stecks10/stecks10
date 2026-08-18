@@ -12,16 +12,6 @@ Desenvolvo aplicações web e mobile, APIs e soluções SaaS com foco em qualida
 
 </div>
 
-## 👨‍💻 Sobre mim
-
-Sou desenvolvedor **Full Stack** com mais de **4 anos de experiência** na construção e evolução de aplicações web e mobile.
-
-Atualmente, trabalho na **Laqus**, no time de **Sustentação e Manutenção de Sistemas**, atuando na análise de problemas, correção de bugs, evolução de funcionalidades e estabilidade de sistemas complexos em produção.
-
-No dia a dia, trabalho principalmente com **C#/.NET, Angular, React, Node.js, NestJS, PostgreSQL e Docker**. Valorizo código limpo, boas práticas, reutilização de componentes, testes e decisões técnicas que tornem o software mais simples de manter e evoluir.
-
-Também desenvolvo produtos próprios e soluções SaaS, unindo engenharia de software, visão de produto e experiência do usuário.
-
 ## 🚀 Projeto em destaque
 
 ### [PedYou](https://www.pedyou.app/) | Plataforma SaaS de cardápio digital e gestão de pedidos
@@ -99,16 +89,6 @@ Principais recursos:
 - Código limpo, testes e atenção à qualidade contínua
 - Colaboração com produto, design, QA e demais áreas técnicas
 - Evolução de produtos com foco em valor para o usuário e para o negócio
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=stecks10&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=stecks10&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
-</div>
 
 ## 🤝 Vamos conversar?
 
